@@ -1,1 +1,96 @@
-h1{color:black; }
+.Headtitle{
+ 
+
+    background-image: url(https://www.bestglycol.com/wp-content/uploads/2015/09/mixed-fruits.jpeg);
+    background-size: 100%;
+ height:400px;
+    width: 120%;
+margin-top: :-30%;
+display: inline-block;
+
+
+
+
+
+
+
+}
+h1{font-size:75px;
+margin-top:	13%;
+margin-right: 25%;
+color: #126AD0; 
+
+font-family: "Arial Black", Gadget, sans-serif;
+
+}
+.secondtitle{
+	margin-right:100px;
+	position:relative;
+	left :200px;
+	font-size :250%;
+	margin-top: 8%;
+	font-family: "Arial Black", Gadget, sans-serif;
+	 color: #126AD0; }
+	 .allbox{ margin-left: 10%;
+	 	padding-right: 10%;
+
+
+	font-size: 115%;
+	
+	 	
+	 }
+
+
+.firstbox{width: 500px;
+    height: 280px;
+    display:inline-block;
+     overflow: hidden;
+background-color:#C7C6C6;
+   
+
+     }
+  .secondbox{width: 500px;
+    height: 280px;
+    display:inline-block;
+     overflow: hidden;
+     background-color: #C7C6C6;
+
+}
+.thirdbox{width: 500px;
+    height: 280px;
+    display:inline-block;
+     background-color:grey;
+ overflow: hidden;    
+}
+.fourthbox{width: 500px;
+    height: 280px;
+    display:inline-block;
+    background-color:grey;	
+    overflow: hidden;
+}
+.fithbox{width: 500px;
+    height: 280px;
+    display:inline-block;
+    background-color:#C7C6C6;	
+    overflow: hidden;
+}
+.sixbox{width: 500px;
+    height: 280px;
+    display:inline-block;
+    background-color:#C7C6C6;		
+
+    overflow: hidden;
+}
+   
+
+
+
+
+    .fithbox:hover{outline: #333 solid 2px;}
+    .fourthbox:hover{   outline: #333 solid 2px;}
+    .secondbox:hover{outline: #333 solid 2px;}
+    .sixbox:hover{outline: #333 solid 2px;}
+    .thirdbox:hover{outline: #333 solid 2px;}
+    .firstbox:hover{outline: #333 solid 2px;}
+
+
