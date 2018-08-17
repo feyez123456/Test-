@@ -1,27 +1,30 @@
+<!DOCTYPE HTML>
 <html> 
 <head>
     <title>Microsoft world</title>
     <meta charset = "UTF-8" />
-  </head> 
+    
+<link href='style.css' rel='stylesheet'> 
+  </head>
 <body> 
 
    
             
-             <select onchange="fontfunction()" id = "fonts">
-               <option>Arial</option>
-               <option > Georgia, serif</option>
-               <option>Times New Roman</option>
-               <option > Palatino Linotype</option>
+             <select  id = "fonts">
+               <option value="Arial"> Arial  </option>
+               <option value="Georgia, serif" > Georgia, serif</option>
+               <option value="Times New Roman" >Times New Roman</option>
+               <option  value="Palatino Linotype"> Palatino Linotype</option>
              </select>
-              <select onchange="sizee()" id = "size">
+              <select  id = "size">
                <option>18px</option>
                <option > 30px</option>
                <option>50px</option>
                <option > 80px</option>
              </select>
-         <button onclick="one()" id="functionbold"> Bold </button>
-         <button onclick="two()" id="functionitalic"> Italic </button> 
-         <button onclick="three()" id="functionunderline"> Underline </button> 
+         <button id="functionbold"> Bold </button>
+         <button  id="functionitalic"> Italic </button> 
+         <button  id="functionunderline"> Underline </button> 
          <p id="para"> Tout le monde comprend 
 Tout le monde compati s
 Maisau bout du compte on est seul.
@@ -51,10 +54,17 @@ Derrière nos bonjours, nos sourires nous cachons tous une histoire pénible, el
 Évitons de juger, soyons attentif lorsque quelqu'un nous dit qu'il est fatigué car la fatigue morale ne se voit pas et pourtant elle tue énormément de gens sournoisement.
 </p> 
 
-<link href='style.css' rel='stylesheet'> 
 
-</body> 
-<script src="JS.js"></script> 
+
+
+
+</body>
+ <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script src="JS.js"> </script> 
+
 
 
 
