@@ -1,0 +1,77 @@
+h2{
+	color:#002945;
+
+		}
+.firstform{
+
+	font-size:14pt;
+		display:inline-block;
+		color:#002945;
+
+
+	
+
+}
+.firstform input {
+	padding: 10px; 
+}
+.secondform input {
+	padding: 10px; 
+}
+.secondform{
+
+	font-size:14pt;
+
+	margin-top: 20px;
+color:#002945;
+}
+.trakform {
+	display:inline-block;
+	color:#002945;
+}
+.select{
+	display:inline-block; 
+	margin-left: 20px;
+	color:#002945;
+
+}
+
+
+.message{
+
+	font-size:14pt;
+		display:inline-block;
+		margin-top: 20px;
+color:#002945;
+}
+.message input {
+	padding: 50px; 
+
+
+
+}
+.all{
+	margin-left: 35%;
+
+}
+
+option{
+color:#002945;
+}
+.container{
+	
+	background-color :#BFC0C0;
+}
+input[type=submit] {
+    border: 1px solid #f44c0e;
+    color: white;
+    background: #002945;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 3px;
+    width: 600px;
+
+}
+#text1,#text2,#text3,#textall{
+	color:#002945 ;
+}
