@@ -1,0 +1,175 @@
+body
+{
+	padding-bottom: 200px;
+}
+
+
+.facebook,.linkedin,.twitter{
+	display:inline-block;
+	
+	margin-top: 200px;
+
+
+}
+.twitter:hover{
+	color:#01CCFE;
+}
+.facebook:hover{
+	color:#01CCFE;
+}
+.linkedin:hover{
+	color:#01CCFE;
+}
+
+.linkedin{
+	margin-left: 10px;
+}
+.twitter{
+	margin-left:10px;
+
+}
+h3{
+	font-weight: bold;
+	color : #538693;
+}
+h3:hover{
+	text-decoration: underline;
+}
+h5{
+	color:#538693;
+
+}
+.image{
+	background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg");
+	height: 400px;
+	width: 105%;
+
+}
+.cercle{
+	margin-top:  300px;
+	position: absolute; 
+	height: 200px;
+	width: 200px;
+margin-left: 43%;
+ border-radius: 200px;
+ background-color: black; 
+
+}
+h2{
+	color:#538693;
+	margin-left: 5%;
+}
+.interest {
+	transition: .4s ease-in-out;
+	padding-top: 20px;
+	text-align: center;
+
+
+}
+.interest:hover i{
+	
+	transform: rotate(360deg);
+
+	transition: 0.4s ease-in-out;
+	color: #01CCFE;
+
+
+
+}
+.interest p{
+	opacity:00;
+	padding-top: 5%;
+}
+.interest:hover p{
+	opacity:1;
+}
+.box1 {
+	background-color: #01CCFE;
+	
+	height: 234px;
+	width: 360px ; 
+	
+
+}
+.box1 h3{
+	color: white;
+		padding-top: 27%;
+		padding-left: 	25%;
+		font-size: 40px;
+
+}
+.box2 {
+	background-color: #01CCFE;
+	
+	height: 234px;
+	width: 360px ; 
+	
+
+}
+.box2 h3{
+	color: white;
+		padding-top: 27%;
+		padding-left: 	25%;
+		font-size: 40px;
+
+}
+.box3 {
+	background-color: #01CCFE;
+	height: 234px;
+	width: 360px ; 
+	
+
+}
+.box3 h3{
+	color: white;
+		padding-top: 27%;
+		padding-left: 	25%;
+		font-size: 40px;
+
+}
+.box4 {
+	background-color: #01CCFE;
+	height: 234px;
+	width: 360px ; 
+	
+
+}
+.box4 h3{
+	color: white;
+		padding-top: 27%;
+		padding-left: 	25%;
+		font-size: 40px;
+
+}
+.box5 {
+	background-color:#01CCFE;
+	height: 234px;
+	width: 360px ; 
+	
+
+}
+.box5 h3{
+	color: white;
+		padding-top: 27%;
+		padding-left: 	25%;
+		font-size: 40px;
+
+}
+.box6 {
+	background-color:#01CCFE;
+	height: 234px;
+	width: 360px ; 
+	
+
+}
+.box6 h3{
+	color: white;
+		padding-top: 27%;
+		padding-left: 	25%;
+		font-size: 40px;
+
+}
+.feyez{
+	margin-left: 25px;
+
+}
